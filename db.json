@@ -2,30 +2,38 @@
   "posts": [
     {
       "id": 1,
-      "title": "Post 1"
+      "title": "Post 1",
+      "description": "DescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescription1"
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "title": "Post 2",
+      "description": "DescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescription2"
     },
     {
       "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "title": "Post 3",
+      "description": "DescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescription3"
     },
     {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "id": 4,
+      "title": "Post 4",
+      "description": "DescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescription4"
+    },
+    {
+      "id": 5,
+      "title": "Post 5",
+      "description": "DescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescription5"
+    },
+    {
+      "id": 6,
+      "title": "Post 6",
+      "description": "DescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescription6"
+    },
+    {
+      "id": 7,
+      "title": "Post 7",
+      "description": "DescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescriptionDescription7"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
